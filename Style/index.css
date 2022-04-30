@@ -1,10 +1,30 @@
 h1{
     color: #EC4067;
 }
+menu{
+    color: black;
+
+
+}
 button{
     background-color: #EC4067;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border: none;
+    
 }
-img{
-    height: 50;
-    width: 50;
+.image{
+    height: 400px;
+    width: 500px;
 }
+
+.flex-container {
+    padding: 10px;
+    display: flex;
+}
+
+.flex-child {
+
+    padding: 20px;
+
+}  
