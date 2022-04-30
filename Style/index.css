@@ -3,7 +3,9 @@ h1{
 }
 menu{
     color: black;
-
+    padding-left: 800px;
+    word-spacing: 30px;
+    
 
 }
 button{
@@ -12,10 +14,11 @@ button{
     color: rgb(255, 255, 255);
     border: none;
     
+    
 }
 .image{
-    height: 400px;
-    width: 500px;
+    height: 350px;
+    width: 600px;
 }
 
 .flex-container {
@@ -25,6 +28,33 @@ button{
 
 .flex-child {
 
-    padding: 20px;
+    padding: 10px;
 
 }  
+.word{
+
+    padding-top: 100px;
+    padding-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 80px;
+
+}  
+.ava{ 
+    height: 200px;
+    width: 240px;
+    
+}
+.bike{
+    height: 500px;
+    width: 800px;
+}
+h4{
+    color: #EC4067;
+}
+footer{
+    background-color: #F6F6F6;
+    padding-left: 600px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
