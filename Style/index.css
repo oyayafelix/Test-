@@ -1,6 +1,6 @@
 body{
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 h1{
     color: #EC4067;
@@ -11,34 +11,24 @@ h1{
     word-spacing: 0px;
     display: inline;
     
-    
-}
-.son{
-    display: inline;
-    
 }
 button{
     background-color: #EC4067;
     padding: 10px;
     color: rgb(255, 255, 255);
-    border: none;
-}
-.link{
-    color: #000;
-    text-decoration: black;
-    float: left;
-    
-}
-ul{
-    display: inline;
-    list-style-type: none;
-    justify-content: space-around;
-    overflow: hidden;
+    border-radius: 5px;
+    border-color: #EC4067;
+
 }
 
 .image{
     height: 350px;
-    width: 600px;
+    width: 650px;
+}
+.hero1{
+    height: 450px;
+    width: 500px;
+    padding: 0px;
 }
 
 .flex-container {
@@ -47,10 +37,16 @@ ul{
 }
 
 .flex-child {
-
-    padding: 10px;
+    align-content: center;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
 
 }  
+.flex-son{
+    padding: 20px;
+    
+}
 .word{
 
     padding-top: 0px;
@@ -59,18 +55,28 @@ ul{
     
 
 }  
+sup{
+    color: gray;
+    font-size: small;
+}
+sub{
+    color: gray;
+    font-size: small;
+}
+
 .ava{ 
     height: 200px;
     width: 240px;
     
 }
 .bike{
-    height: 500px;
+    height: 400px;
     width: 800px;
 }
 h4{
     color: #EC4067;
 }
+
 footer{
     background-color: #F6F6F6;
     padding-left: 600px;
