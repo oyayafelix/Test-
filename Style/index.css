@@ -1,21 +1,41 @@
+body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
 h1{
     color: #EC4067;
 }
-menu{
-    color: black;
-    padding-left: 800px;
-    word-spacing: 30px;
-    
+.main{
 
+    padding-left: 400px;
+    word-spacing: 0px;
+    display: inline;
+    
+    
+}
+.son{
+    display: inline;
+    
 }
 button{
     background-color: #EC4067;
     padding: 10px;
     color: rgb(255, 255, 255);
     border: none;
-    
+}
+.link{
+    color: #000;
+    text-decoration: black;
+    float: left;
     
 }
+ul{
+    display: inline;
+    list-style-type: none;
+    justify-content: space-around;
+    overflow: hidden;
+}
+
 .image{
     height: 350px;
     width: 600px;
