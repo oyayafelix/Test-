@@ -2,9 +2,6 @@ body{
     padding-left: 60px;
     padding-right: 60px;
 }
-h1{
-    color: #EC4067;
-}
 .main{
 
     padding-left: 400px;
@@ -113,4 +110,6 @@ footer{
 }
 .button1{
     color: #fff;
+    padding-top: 3px;
+    padding-bottom: 3px;;
 }
