@@ -20,6 +20,33 @@ button{
     border-color: #EC4067;
 
 }
+.head{
+    display: flex;
+    justify-content: space-between;
+    
+     
+ }
+ul{
+    align-items: horizontal;
+    text-decoration: none;
+    list-style: none;
+    
+    
+} 
+li{
+    float: left;
+    text-decoration: black;
+    
+    
+}
+.link{
+    text-decoration: black;
+    color: black;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
 
 .image{
     height: 350px;
@@ -83,4 +110,7 @@ footer{
     padding-top: 30px;
     padding-bottom: 30px;
 
+}
+.button1{
+    color: #fff;
 }
